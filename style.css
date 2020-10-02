@@ -49,7 +49,7 @@ img {
     margin: 50px;
 }
 
-ul {
+ol {
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
@@ -57,7 +57,7 @@ ul {
     font-size: 14pt;
 } 
 
-ul:before {
+ol:before {
     content: 'Quick links';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
